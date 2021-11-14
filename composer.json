@@ -1,0 +1,15 @@
+{
+  "name": "E-commerce Shop",
+  "description": "A functional e-commere shop with cart system made fully with PHP and Bootstrap and MariaDB",
+  "keywords": [
+    "shop",
+    "php"
+  ],
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Ishola Obafemi",
+      "email": "isholaobafemi@gmail.com"
+    }
+  ]
+}

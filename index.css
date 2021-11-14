@@ -1,0 +1,9 @@
+.fa-star{
+    color:gray;
+}
+
+img{
+    max-width: 80%;
+    height: auto;
+    object-fit: contain;
+}
